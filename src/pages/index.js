@@ -25,7 +25,7 @@ const IndexPage = () => (
         gained a deep appreciation for{" "}
         <Highlight>human-centered design</Highlight> and{" "}
         <Highlight>rapid-prototyping</Highlight>. From there, I transitioned
-        into software, where I've spent the majority of my carrer creating{" "}
+        into software, where I've spent the majority of my career creating{" "}
         <Highlight>digital interfaces</Highlight> and{" "}
         <Highlight>products</Highlight>.
       </p>
